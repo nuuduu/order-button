@@ -7,6 +7,7 @@ This is instruction on how to add a "Order me on Nuuduu" button to your website.
 * Example HTML and localised versions of the Book Me button in PNG format.
 * Version 1.1.0
 * [Sign up as Nuuduu partner at](https://nuuduu.com/partners)
+* [Order button tool](https://nuuduu.github.io)
 
 ### How do I get set up? ###
 
